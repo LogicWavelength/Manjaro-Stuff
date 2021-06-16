@@ -1,1 +1,5 @@
-WALLPAPER STUFF
+======================
+   WALLPAPER STUFF
+======================
+
+Dump of my wallpapers for open-source distros.
